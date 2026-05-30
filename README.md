@@ -130,7 +130,7 @@ nmap -A 192.168.56.30
 
 ## Complete Lab Environment
 
-![Complete Lab Environment](screenshots/all-setup.png)
+![Complete Lab Environment](screenshots/all-Setup.png)
 
 ---
 
@@ -148,7 +148,7 @@ nmap -A 192.168.56.30
 
 ## Metasploitable2 Configuration
 
-![Metasploitable2 Configuration](screenshots/metasploitable-configurations.png)
+![Metasploitable2 Configuration](screenshots/metasploitable-Configurations.png)
 
 ---
 
