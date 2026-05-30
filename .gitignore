@@ -1,0 +1,6 @@
+*.vdi
+*.vmdk
+*.iso
+*.log
+*.pcap
+*.tmp
